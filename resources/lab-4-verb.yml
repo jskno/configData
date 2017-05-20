@@ -2,4 +2,4 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
-words: ran,knew,had,saw,bought
+words: ran away,didn't know,didn't have,didn't see,bought in
